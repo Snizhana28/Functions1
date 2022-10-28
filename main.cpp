@@ -17,7 +17,7 @@ void Perfect_num(int x, int y)
                 sum += j;
         }
         if (sum == i)
-            cout << "This is a perfect number! "<< sum << endl;
+            cout << "This is a perfect number! " << sum << endl;
     }
 }
 
